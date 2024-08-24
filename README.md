@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aula de Italiano
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Em meu projeto tive a ideia de criar uma pequena aula de italiano ensinando a falar algumas coisinhas iniciais e obrigatorias para uma apresentação escolar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ElevenLabs, HeyGen, Copilot e o Gamma (todas ensinadas pela DIO durante o bootcamp)
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A primeira etapa foi pedir um exemplo de apresentação para o Gamma sobre uma aula de italiano e logo em seguida fui aprimorar algumas informações no chat do copilot onde acrescentei e mudei alguns detalhes, passando isso foi necessário a utilização do Eleven labs para utilização/criação de uma voz e assim que a voz foi finalizada utilizei o HeyGen para a criação de um pequeno video de um avatar ensinando um pouco sobre italiano.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A criação deste projeto foi algo extremamente interresante e útil para minha evolução no mundo da IA e de um grande aprendizado e aperfeiçoamento na utilização de outras IAs. 
 
 ### Exemplos e Insigths
 
