@@ -31,7 +31,7 @@ ElevenLabs, HeyGen, Copilot e o Gamma (todas ensinadas pela DIO durante o bootc
 A primeira etapa foi pedir um exemplo de apresentação para o Gamma sobre uma aula de italiano e logo em seguida fui aprimorar algumas informações no chat do copilot onde acrescentei e mudei alguns detalhes, passando isso foi necessário a utilização do Eleven labs para utilização/criação de uma voz e assim que a voz foi finalizada utilizei o HeyGen para a criação de um pequeno video de um avatar ensinando um pouco sobre italiano.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado ficou muito bom, é incrível ver como que a IA esta chegando em lugares muito diferentes, infelizmente não consegui fazer a apresentação do trabalho justamente por ser feito com IA mas serviu de grande aprendizado para mim.
 
 ## 💭 Reflexão (Opcional)
 A criação deste projeto foi algo extremamente interresante e útil para minha evolução no mundo da IA e de um grande aprendizado e aperfeiçoamento na utilização de outras IAs. 
